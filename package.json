@@ -20,6 +20,7 @@
     "tizen-tau-wearable": "^2.3.1-0"
   },
   "devDependencies": {
-    "grunt-tizen": "^0.1.2"
+    "grunt-tizen": "^0.1.2",
+    "typescript": "^2.8.1"
   }
 }
